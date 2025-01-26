@@ -1,6 +1,6 @@
 "use client";
 
-import {MainButton}from "@/components/common/MainButton";
+import MainButton from "@/components/common/MainButton";
 import { Separator } from "@/components/ui/separator";
 import { useToast } from "@/components/ui/use-toast";
 import makeApiCallService from "@/lib/service/apiService";

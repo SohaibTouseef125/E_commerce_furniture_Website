@@ -5,7 +5,7 @@ import makeApiCallService from "@/lib/service/apiService";
 import { billingAtom } from "@/lib/storage/jotai";
 import { useAtom } from "jotai";
 import { ChangeEvent, FormEvent, useState } from "react";
-import {MainButton} from "../common/MainButton";
+import MainButton from "../common/MainButton";
 
 type BillingInfo = {
   firstName: string;
