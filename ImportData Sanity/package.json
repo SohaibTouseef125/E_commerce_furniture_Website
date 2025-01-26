@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@sanity/client": "^6.25.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  },
+  
+  "name": "importdata-sanity",
+  "version": "1.0.0",
+  "main": "importData.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
